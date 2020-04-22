@@ -1,2 +1,2 @@
 # CoverBand
-Website for musicband https://nataliayaremko.github.io/CoverBand/
+Website for musicband https://rostyk88.github.io/911/
